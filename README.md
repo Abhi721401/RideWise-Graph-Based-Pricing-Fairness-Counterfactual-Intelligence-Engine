@@ -17,7 +17,7 @@ This information asymmetry means passengers routinely overpay without ever reali
 
 ![What i am solving](idea.png)
 
-## 🎬 Demo
+## 🎬 Demo ( Open in Laptop )
  
 ▶️ **[Watch Live Demo for streamlit](https://drive.google.com/file/d/1N4pR31oExw28lXBkJQ2uQ80moY_GQbtJ/view?usp=sharing)**
 ---
